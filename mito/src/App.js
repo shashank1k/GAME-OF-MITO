@@ -19,18 +19,18 @@ const icons = [
 ];
 
 const bgColors = [
-  "#b91c1c", // dark red
-  "#b45309", // dark amber
-  "#059669", // dark emerald
-  "#2563eb", // dark blue
-  "#7c3aed", // dark violet
-  "#db2777", // dark pink
-  "#ca8a04", // darker yellow
-  "#15803d", // darker green
-  "#0284c7", // deeper sky blue
-  "#9333ea", // deeper purple
-  "#be123c", // crimson
-  "#ca8a04", // goldenrod
+"#f87171",
+"#fbbf24",
+"#34d399",
+"#60a5fa",
+"#a78bfa",
+"#f472b6",
+"#fcd34d",
+"#4ade80",
+"#38bdf8",
+"#c084fc",
+"#fb7185",
+"#facc15",
 ];
 
 const LETTERS = {
