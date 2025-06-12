@@ -245,7 +245,7 @@ const IconGridText = ({ text, gridRef }) => {
                       borderRadius: 4,
                       backgroundColor: bgColor,
                       fontSize: "1rem",
-                      border: `1px solid black`,
+                      border: `2px solid black`,
                     }}
                   >
                     {emoji}
